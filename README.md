@@ -45,27 +45,27 @@ root@github:~$ ./fetch.sh
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-[user]
+[ user ]
 > Harsh Nilesh Bhosale
 
-[field]
+[ field ]
 > cybersecurity
 
-[hobbies]
+[ hobbies ]
 > sports
 > games
 > sketching
 
-[born]
+[ born ]
 > 07/06/2007
 
-[shell]
+[ shell ]
 > /bin/bash
 
-[status]
+[ status ]
 > learning everyday
 
-[mail]
+[ mail ]
 > bhosale.harshu077@gmail.com
 
 ━━━━━━━━━━━━━━━━━━━━━━
