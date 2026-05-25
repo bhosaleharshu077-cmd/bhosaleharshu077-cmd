@@ -3,9 +3,10 @@
 <table>
 <tr>
 
-<td width="55%">
+<td width="40%">
 
 ```txt
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠤⠤⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⣔⣢⣭⣶⣶⣿⣿⣿⣿⣿⣿⣶⣶⣭⣔⣢⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⡲⢵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣮⣖⢄⠀⠀⠀⠀⠀⠀
@@ -25,66 +26,32 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠾⠋⢇⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⠶⣤⣤⣀⣀⣀⣀⣀⣀⣀⣀⣤⣤⠶⠟⠋⠁⠀⠀⠸⡄⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠋⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀
-```
-
 </td>
 
-<td width="45%">
+<td width="60%">
 
-```console
+```bash
+┌──(harsh㉿github)-[~/profile]
+└─$ fetch.sh
 
-━━━━━━━━━━━━━━━━━━━━━
+🌻name:
+Harsh Nilesh Bhosale
 
-[ Host ]
-> Harsh Nilesh Bhosale
+🌻field:
+cybersecurity
 
-[ field ]
-> cybersecurity
+🌻hobbies:
+sports
+games
+sketching
 
-[ hobbies ]
-> sports
-> games
-> sketching
-━━━━━━━━━━━━━━━━━━━━━
-[OS]
-> Linux Mint
-
-[ Shell ]
-> bash
-
-[ Learning ]
-> Cybersecurity
-
-[ Editor ]
-> VS Code
-
-[ Focus ]
-> Linux + Networking
-━━━━━━━━━━━━━━━━━━━━━
-[ born ]
-> 07/06/2007
-
-[ contact ]
-> bhosale.harshu077@gmail.com
-
-━━━━━━━━━━━━━━━━━━━━━━
+🌻mail:
+bhosale.harshu077@gmail.com
 ```
 
-
-
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=ACCESS+GRANTED;INITIALIZING...;💻🔑🛡" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=footer"/>
-
-
-
-
-
-  
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Cybersecurity;Linux;Networking;☠💻🔑🛡.." />
 </p>
-
-
 
 </td>
 
