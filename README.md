@@ -75,7 +75,7 @@ root@github:~$ ./fetch.sh
 
 </td>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=CYBERSEC;Linux;Networking;I HACK HACKERS.." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=CYBERSEC;Linux;Networking;I+HACK+HACKERS.." />
 </p>
 
 
