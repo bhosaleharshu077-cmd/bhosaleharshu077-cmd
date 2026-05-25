@@ -74,7 +74,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=ACCESS+GRANTED;INITIALIZING...;WELCOME;☠💻🔑🛡" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=ACCESS+GRANTED;INITIALIZING...;💻🔑🛡" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=footer"/>
 
 
