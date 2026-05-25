@@ -1,7 +1,6 @@
 <img width="1600" height="800" alt="WhatsApp Image 2026-05-26 at 02 29 28" src="https://github.com/user-attachments/assets/9a4b28a0-9868-4f40-bbb2-67937a6eebfb" />
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:111111,100:ff0000&text=&fontColor=00ff00&fontSize=42&animation=fadeIn"/>
 
 
 
