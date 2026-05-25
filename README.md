@@ -86,12 +86,6 @@ root@github:~$ ./fetch.sh
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=footer"/>
 
-```bash
-root@github:~$ sudo rm -rf boredom
-[sudo] password for harsh:
-ACCESS GRANTED
-```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=footer"/>
+
