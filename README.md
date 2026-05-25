@@ -73,12 +73,6 @@ root@github:~$ ./fetch.sh
 </code>
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF00&background=00000000&width=430&lines=hello;こんにちは;नमस्ते;안녕하세요;hola;ciao;welcome+to+my+profile" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=PROFILE+VIEWS&color=ff0000&style=flat" />
-
 </td>
 
 </tr>
