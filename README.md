@@ -1,16 +1,88 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bhosaleharshu077-cmd/bhosaleharshu077-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
 
-Here are some ideas to get you started:
+<td width="55%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```txt
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠤⠤⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⣔⣢⣭⣶⣶⣿⣿⣿⣿⣿⣿⣶⣶⣭⣔⣢⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⡲⢵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣮⣖⢄⠀⠀⠀⠀⠀⠀
+⠀⠀⠤⠤⠤⠤⠄⠤⠤⣤⣤⣀⣘⣚⡚⠀⠭⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠋⠈⠩⠽⠟⠳⠶⢦⣤⣉⡛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀
+⠀⠀⣀⣀⣠⡤⠠⠤⢶⠶⠶⠶⠒⠒⢒⣶⠶⠶⠶⠶⠈⣇⢻⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
+⠊⠉⠁⠀⠀⠀⠀⠀⡌⣀⠤⠐⣊⣉⣤⡤⠴⠶⠶⠛⠛⠟⡎⠻⠿⠿⢿⣿⣿⣮⣟⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀
+⠀⠀⠀⠀⠀⠀⢀⣠⡥⠶⠚⠋⠉⠁⠀⠀⠀⠀⠀⠀⢠⠖⢁⣠⡤⣤⣤⣤⣈⡉⠛⠿⢮⣻⣿⣿⣿⣿⣿⣿⣿⣿⡆
+⠀⠀⠀⢠⠴⠛⠉⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠁⡰⠋⠀⠀⠀⠘⠿⣿⣿⣷⣦⡄⠉⡿⣿⣿⣿⣿⣿⣿⣿⣇
+⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⡗⠀⠀⠀⠀⠀⠀⠘⠻⣿⣿⣿⣶⣄⡙⣻⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡀⠱⡀⠀⠀⠀⠀⠀⠀⠀⠉⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏
+⠀⠀⠀⠀⠀⠀⠀⠸⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠱⣄⡈⠒⠠⠤⠀⠀⠀⢀⣀⣀⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⠇
+⠀⠀⠀⠀⠀⠀⠀⠀⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠳⠶⠦⠤⣤⣤⣤⣄⣀⠈⢉⡙⠻⢿⣿⣿⣿⣿⡟⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠶⣌⠻⣦⣝⢿⣿⡿⠁⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢳⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⡱⡙⣧⡻⠁⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣳⠹⠏⢣⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠾⠋⢇⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⠶⣤⣤⣀⣀⣀⣀⣀⣀⣀⣀⣤⣤⠶⠟⠋⠁⠀⠀⠸⡄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠋⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀
+```
+
+</td>
+
+<td width="45%">
+
+```console
+
+━━━━━━━━━━━━━━━━━━━━━
+
+[ Host ]
+> Harsh Nilesh Bhosale
+
+[ field ]
+> cybersecurity
+
+[ hobbies ]
+> sports
+> games
+> sketching
+━━━━━━━━━━━━━━━━━━━━━
+[OS]
+> Linux Mint
+
+[ Shell ]
+> bash
+
+[ Learning ]
+> Cybersecurity
+
+[ Editor ]
+> VS Code
+
+[ Focus ]
+> Linux + Networking
+━━━━━━━━━━━━━━━━━━━━━
+[ born ]
+> 07/06/2007
+
+[ contact ]
+> bhosale.harshu077@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━
+```
+
+
+
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=ACCESS+GRANTED;INITIALIZING...;WELCOME+TO+MY+PROFILE" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=footer"/>
+</p>
+
+
+
+</td>
+
+</tr>
+</table>
+
+</div>
